@@ -9,35 +9,35 @@
 9        android:targetSdkVersion="31" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:5:5-80
-13-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:5:22-77
+13-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:5:22-77
 14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:6:5-81
-14-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:6:22-78
+14-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:6:5-81
+14-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:6:22-78
 15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 15-->[com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
 15-->[com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->[:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
-16-->[:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+16-->[:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+16-->[:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
 17    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required to access Google Play Licensing -->
-17-->[:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-68
-17-->[:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-65
+17-->[:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-68
+17-->[:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-65
 18    <uses-permission android:name="com.android.vending.CHECK_LICENSE" /> <!-- Required to to download files without a notification -->
-18-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
-18-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+18-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+18-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
 19    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
-19-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:5-88
-19-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:22-85
+19-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:5-88
+19-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:22-85
 20    <uses-permission android:name="android.permission.USE_FINGERPRINT" /> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
-20-->[:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-74
-20-->[:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-71
+20-->[:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-74
+20-->[:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-71
 21    <permission
 21-->[com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:7:5-9:47
 22        android:name="com.concentra.mitur.permission.C2D_MESSAGE"
@@ -135,134 +135,134 @@
 64    </queries>
 65
 66    <application
-66-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:8:5-34:19
+66-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:8:5-34:19
 67        android:name="com.concentra.mitur.MainApplication"
-67-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:9:7-38
+67-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:9:7-38
 68        android:allowBackup="false"
-68-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:13:7-34
+68-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:13:7-34
 69        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 69-->[androidx.core:core:1.6.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/5efa136d6b7a2c594211658eacead3c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 70        android:debuggable="true"
 71        android:icon="@mipmap/ic_launcher"
-71-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:11:7-41
+71-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:11:7-41
 72        android:label="@string/app_name"
-72-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:10:7-39
+72-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:10:7-39
 73        android:roundIcon="@mipmap/ic_launcher_round"
-73-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:12:7-52
+73-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:12:7-52
 74        android:theme="@style/AppTheme"
-74-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:14:7-38
+74-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:14:7-38
 75        android:usesCleartextTraffic="true" >
-75-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:15:7-42
+75-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:15:7-42
 76        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-76-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:11:9-86
-76-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:11:19-83
+76-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:11:9-86
+76-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:11:19-83
 77
 78        <meta-data
-78-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:17:6-19:63
+78-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:17:6-19:63
 79            android:name="com.google.android.geo.API_KEY"
-79-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:18:6-51
+79-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:18:6-51
 80            android:value="AIzaSyDRZB7oVkuHIT_vTCvpKswBIaPYLqAXuhc" />
-80-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:19:6-61
+80-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:19:6-61
 81
 82        <activity
-82-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:20:7-33:18
+82-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:20:7-33:18
 83            android:name="com.concentra.mitur.MainActivity"
-83-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:21:9-37
+83-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:21:9-37
 84            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-84-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:24:9-86
+84-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:24:9-86
 85            android:exported="true"
-85-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:22:9-32
+85-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:22:9-32
 86            android:label="@string/app_name"
-86-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:23:9-41
+86-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:23:9-41
 87            android:launchMode="singleTask"
-87-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:25:9-40
+87-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:25:9-40
 88            android:screenOrientation="portrait"
-88-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:26:9-45
+88-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:26:9-45
 89            android:windowSoftInputMode="adjustResize" >
-89-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:27:9-51
+89-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:27:9-51
 90            <intent-filter>
-90-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:28:9-32:25
+90-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:28:9-32:25
 91                <action android:name="android.intent.action.MAIN" />
-91-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:29:13-65
-91-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:29:21-62
+91-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:29:13-65
+91-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:29:21-62
 92
 93                <category android:name="android.intent.category.LAUNCHER" />
-93-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:30:13-73
-93-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:30:23-70
+93-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:30:13-73
+93-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:30:23-70
 94
 95                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
-95-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:31:13-77
-95-->/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:31:21-75
+95-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:31:13-77
+95-->/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:31:21-75
 96            </intent-filter>
 97        </activity>
 98
 99        <provider
-99-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-48:20
+99-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-48:20
 100            android:name="com.ReactNativeBlobUtil.Utils.FileProvider"
-100-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-70
+100-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-70
 101            android:authorities="com.concentra.mitur.provider"
-101-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-60
+101-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-60
 102            android:exported="false"
-102-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
+102-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
 103            android:grantUriPermissions="true" >
-103-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-47
+103-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-47
 104            <meta-data
-104-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
+104-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
 105                android:name="android.support.FILE_PROVIDER_PATHS"
-105-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
+105-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
 106                android:resource="@xml/provider_paths" />
-106-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
+106-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
 107        </provider>
 108        <provider
-108-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+108-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 109            android:name="com.imagepicker.ImagePickerProvider"
-109-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+109-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 110            android:authorities="com.concentra.mitur.imagepickerprovider"
-110-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+110-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
 111            android:exported="false"
-111-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+111-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 112            android:grantUriPermissions="true" >
-112-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+112-->[:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 113            <meta-data
-113-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
+113-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
 114                android:name="android.support.FILE_PROVIDER_PATHS"
-114-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
+114-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
 115                android:resource="@xml/imagepicker_provider_paths" />
-115-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
+115-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
 116        </provider>
 117        <provider
-117-->[:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+117-->[:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 118            android:name="cl.json.RNShareFileProvider"
-118-->[:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+118-->[:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
 119            android:authorities="com.concentra.mitur.rnshare.fileprovider"
-119-->[:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+119-->[:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
 120            android:exported="false"
-120-->[:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+120-->[:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 121            android:grantUriPermissions="true" >
-121-->[:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+121-->[:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 122            <meta-data
-122-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
+122-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
 123                android:name="android.support.FILE_PROVIDER_PATHS"
-123-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
+123-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
 124                android:resource="@xml/share_download_paths" />
-124-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
+124-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
 125        </provider>
 126        <provider
-126-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+126-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 127            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
-127-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+127-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
 128            android:authorities="com.concentra.mitur.fileprovider"
-128-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+128-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
 129            android:exported="false"
-129-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+129-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 130            android:grantUriPermissions="true" >
-130-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+130-->[:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 131            <meta-data
-131-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
+131-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
 132                android:name="android.support.FILE_PROVIDER_PATHS"
-132-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
+132-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
 133                android:resource="@xml/file_provider_paths" />
-133-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
+133-->[:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
 134        </provider>
 135
 136        <receiver

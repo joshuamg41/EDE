@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+            "outputFile": "/Users/joshuamartegarcia/Desktop/EDE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/642f5e8b1a39add38a1d5b024bce912c/transformed/browser-1.3.0/res/values-te/values-te.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/Users/joshuamartegarcia/Desktop/EDE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/d1e1442acf262d249aef8fc181ca0445/transformed/jetified-play-services-basement-18.0.0/res/values-ky/values.xml",

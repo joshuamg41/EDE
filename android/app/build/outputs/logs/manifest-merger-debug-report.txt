@@ -1,49 +1,49 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
-MERGED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2c29b736c8f2a9d82fade7115b471d70/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/e3a733608d857c466939da27af54ba77/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
-MERGED from [:react-native-community_async-storage] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-community_masked-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-community_picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_progress-bar-android] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/progress-bar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_progress-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/progress-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_toolbar-android] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-android-open-settings] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-android-open-settings/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-51:12
-MERGED from [:react-native-config] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-document-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
-MERGED from [:react-native-maps] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-onesignal] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-onesignal/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-pager-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-pdf] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-pdf/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
-MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-svg] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-text-input-mask] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-text-input-mask/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-vector-icons] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-community_async-storage] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_progress-bar-android] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/progress-bar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_progress-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/progress-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_toolbar-android] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/EDE/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-android-open-settings] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-android-open-settings/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-51:12
+MERGED from [:react-native-config] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-document-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-maps] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-onesignal] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-onesignal/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-pager-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pdf] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-pdf/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-svg] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-text-input-mask] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-text-input-mask/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
 MERGED from [com.facebook.react:react-native:0.66.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/17983b27092628c498529e8f14a21a1e/transformed/jetified-react-native-0.66.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:2:1-143:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/67dc7ae83599c50a17d333e48b750491/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2d7fccd1f19787d63b03ada961c1fccf/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/9341f36f0ce470d4b55127e33c2ce075/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/joshuamartegarcia/.gradle/caches/transforms-3/7873a5158addb5bf75ec8bc5226b9f2a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-reanimated] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-reanimated/android/build/.transforms/7fe01b1d8d24bffb162f2cfb2f02b97d/transformed/jetified-react-native-reanimated-66-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-reanimated/android/build/.transforms/3ba8ac48ec178a93d5e7dcc3972ca5a0/transformed/jetified-react-native-reanimated-66-jsc/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/5880c3ffcd9f3ffb65016eb160ab2121/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/247a35ea3454e43292f80ed4e869afa6/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2e3be5b59ff1001e620058abe4b7c8c9/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
@@ -125,34 +125,34 @@ MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/joshuamarteg
 MERGED from [com.github.RedMadRobot:input-mask-android:6.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/bb868d8265d4d5b998ce936851898da2/transformed/jetified-input-mask-android-6.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/80cae4052e041bdf30fb0fa272e54409/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/62f3224d23caee608d6c9bcfb0d84ebd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:2:1-13:12
 	package
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:2:3-32
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:2:3-32
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:1-35:12
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
-MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/EDE/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/EDE/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:16:5-67
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:16:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/joshuamartegarcia/.gradle/caches/transforms-3/42866bf997b6be7dd3920878e54e3310/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
@@ -160,35 +160,35 @@ MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/joshuamart
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2ad07e3658d7f30a95a0948dc6452df9/transformed/jetified-firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2ad07e3658d7f30a95a0948dc6452df9/transformed/jetified-firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:5:5-80
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:5-80
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:5-80
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:5:5-80
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:5-80
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:5-80
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:5:22-77
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:5:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:6:5-81
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:6:22-78
 application
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:8:5-34:19
-MERGED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:8:5-34:19
-MERGED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:8:5-34:19
-MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
-MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:5-49:19
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:5-49:19
-MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
-MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
-MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:5-49:19
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:5-49:19
+MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
 MERGED from [com.facebook.react:react-native:0.66.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/17983b27092628c498529e8f14a21a1e/transformed/jetified-react-native-0.66.1/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.66.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/17983b27092628c498529e8f14a21a1e/transformed/jetified-react-native-0.66.1/AndroidManifest.xml:9:5-20
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:48:5-141:19
@@ -238,133 +238,133 @@ MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/joshuamarteg
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/5efa136d6b7a2c594211658eacead3c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:10:7-39
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:10:7-39
 	tools:ignore
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:10:9-48
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:12:7-52
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:12:7-52
 	tools:targetApi
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:9:9-29
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:11:7-41
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:11:7-41
 	android:allowBackup
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:13:7-34
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:13:7-34
 	android:theme
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:14:7-38
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:15:7-42
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:15:7-42
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:9:7-38
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:9:7-38
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:17:6-19:63
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:17:6-19:63
 	android:value
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:19:6-61
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:19:6-61
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:18:6-51
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:18:6-51
 activity#com.concentra.mitur.MainActivity
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:20:7-33:18
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:20:7-33:18
 	android:screenOrientation
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:26:9-45
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:26:9-45
 	android:label
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:23:9-41
 	android:launchMode
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:25:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:27:9-51
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:27:9-51
 	android:exported
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:22:9-32
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:22:9-32
 	android:configChanges
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:24:9-86
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:24:9-86
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:21:9-37
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:21:9-37
 intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:28:9-32:25
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:28:9-32:25
 action#android.intent.action.MAIN
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:29:13-65
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:29:13-65
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:29:21-62
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:29:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:30:13-73
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:30:13-73
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:30:23-70
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:30:23-70
 action#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:31:13-77
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:31:13-77
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml:31:21-75
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml:31:21-75
 uses-sdk
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2c29b736c8f2a9d82fade7115b471d70/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2c29b736c8f2a9d82fade7115b471d70/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/e3a733608d857c466939da27af54ba77/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/e3a733608d857c466939da27af54ba77/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-community_async-storage] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_async-storage] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_progress-bar-android] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/progress-bar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_progress-bar-android] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/progress-bar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_progress-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/progress-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_progress-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/progress-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_toolbar-android] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_toolbar-android] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-android-open-settings] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-android-open-settings/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-android-open-settings] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-android-open-settings/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-config] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-config] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-document-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-document-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-onesignal] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-onesignal/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-onesignal] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-onesignal/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-pager-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-pager-view] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-pdf] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-pdf/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-pdf] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-pdf/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-text-input-mask] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-text-input-mask/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-text-input-mask] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-text-input-mask/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_progress-bar-android] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/progress-bar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_progress-bar-android] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/progress-bar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_progress-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/progress-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_progress-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/progress-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/toolbar-android/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/EDE/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/joshuamartegarcia/Desktop/EDE/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-android-open-settings] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-android-open-settings/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-android-open-settings] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-android-open-settings/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-maps/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-onesignal] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-onesignal/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-onesignal] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-onesignal/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pdf] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-pdf/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pdf] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-pdf/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-text-input-mask] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-text-input-mask/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-text-input-mask] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-text-input-mask/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.66.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/17983b27092628c498529e8f14a21a1e/transformed/jetified-react-native-0.66.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.66.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/17983b27092628c498529e8f14a21a1e/transformed/jetified-react-native-0.66.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:4:5-44
@@ -377,8 +377,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joshua
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/9341f36f0ce470d4b55127e33c2ce075/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r250230] /Users/joshuamartegarcia/.gradle/caches/transforms-3/7873a5158addb5bf75ec8bc5226b9f2a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r250230] /Users/joshuamartegarcia/.gradle/caches/transforms-3/7873a5158addb5bf75ec8bc5226b9f2a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-reanimated/android/build/.transforms/7fe01b1d8d24bffb162f2cfb2f02b97d/transformed/jetified-react-native-reanimated-66-jsc/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-reanimated/android/build/.transforms/7fe01b1d8d24bffb162f2cfb2f02b97d/transformed/jetified-react-native-reanimated-66-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-reanimated/android/build/.transforms/3ba8ac48ec178a93d5e7dcc3972ca5a0/transformed/jetified-react-native-reanimated-66-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-reanimated/android/build/.transforms/3ba8ac48ec178a93d5e7dcc3972ca5a0/transformed/jetified-react-native-reanimated-66-jsc/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/5880c3ffcd9f3ffb65016eb160ab2121/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/5880c3ffcd9f3ffb65016eb160ab2121/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/247a35ea3454e43292f80ed4e869afa6/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
@@ -541,34 +541,34 @@ MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/joshuamartegarcia/.gradle/
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/80cae4052e041bdf30fb0fa272e54409/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/62f3224d23caee608d6c9bcfb0d84ebd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/62f3224d23caee608d6c9bcfb0d84ebd/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:11:9-86
+ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:11:9-86
 	android:name
-		ADDED from /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/debug/AndroidManifest.xml:11:19-83
+		ADDED from /Users/joshuamartegarcia/Desktop/EDE/android/app/src/debug/AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
-MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
-MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+ADDED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:24:5-79
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:24:5-79
 MERGED from [androidx.work:work-runtime:2.7.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/193f86ea4e6532f50d73ab239a4e9bbd/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
@@ -578,11 +578,11 @@ MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/joshuamart
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2ad07e3658d7f30a95a0948dc6452df9/transformed/jetified-firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2ad07e3658d7f30a95a0948dc6452df9/transformed/jetified-firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+		ADDED from [:react-native-community_netinfo] /Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-68
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
-MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+ADDED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-68
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+MERGED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:18:5-68
 MERGED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:18:5-68
 MERGED from [androidx.work:work-runtime:2.7.1] /Users/joshuamartegarcia/.gradle/caches/transforms-3/193f86ea4e6532f50d73ab239a4e9bbd/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
@@ -590,65 +590,65 @@ MERGED from [androidx.work:work-runtime:2.7.1] /Users/joshuamartegarcia/.gradle/
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2ad07e3658d7f30a95a0948dc6452df9/transformed/jetified-firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/joshuamartegarcia/.gradle/caches/transforms-3/2ad07e3658d7f30a95a0948dc6452df9/transformed/jetified-firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-65
+		ADDED from [:react-native-background-timer] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-background-timer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-65
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
 	android:name
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:5-88
+ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:5-88
 	android:name
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:22-85
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:22-85
 provider#com.ReactNativeBlobUtil.Utils.FileProvider
-ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-48:20
+ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-48:20
 	android:grantUriPermissions
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-47
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-47
 	android:authorities
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-60
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-60
 	android:exported
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-70
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-70
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
+ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-47:58
 	android:resource
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:17-55
 	android:name
-		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
+		ADDED from [:react-native-blob-util] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-blob-util/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:17-67
 provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
 	android:exported
-		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+		ADDED from [:react-native-image-picker] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 provider#cl.json.RNShareFileProvider
-ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
 	android:exported
-		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+		ADDED from [:react-native-share] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
 uses-permission#android.permission.USE_FINGERPRINT
-ADDED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-74
+ADDED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-74
 	android:name
-		ADDED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-71
+		ADDED from [:react-native-touch-id] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-touch-id/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-71
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
 	android:exported
-		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+		ADDED from [:react-native-webview] /Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
 permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.6.3] /Users/joshuamartegarcia/.gradle/caches/transforms-3/8e643bed5501282bf5b97d19da11bdf2/transformed/jetified-OneSignal-4.6.3/AndroidManifest.xml:7:5-9:47
 	android:protectionLevel

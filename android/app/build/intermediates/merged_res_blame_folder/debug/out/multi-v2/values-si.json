@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
+            "outputFile": "/Users/joshuamartegarcia/Desktop/EDE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
             "map": [
                 {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/c66e604741b466b3506f57c38f27bb5c/transformed/jetified-firebase-messaging-19.0.0/res/values-si/values.xml",

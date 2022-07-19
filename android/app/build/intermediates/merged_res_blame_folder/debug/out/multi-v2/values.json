@@ -1,23 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/joshuamartegarcia/Desktop/EDE/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "684,685,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "43543,43607,44123,44253,44338,44402,44472,44607,44694,44756,44874,44978,45068,45164,45236,45301,45374,45465",
-                        "endColumns": "63,68,129,84,63,69,134,86,61,117,103,89,95,71,64,72,90,84",
-                        "endOffsets": "43602,43671,44248,44333,44397,44467,44602,44689,44751,44869,44973,45063,45159,45231,45296,45369,45460,45545"
-                    }
-                },
                 {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/530e90c3ee142f7f959c69298c7c5ded/transformed/coordinatorlayout-1.1.0/res/values/values.xml",
                     "from": {
@@ -50,7 +35,24 @@
                     }
                 },
                 {
-                    "source": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/joshuamartegarcia/Desktop/EDE/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "-1,-1,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40",
+                        "startColumns": "-1,-1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "-1,-1,371,541,666,770,880,1055,1182,1284,1442,1586,1716,1852,1964,2069,2182,2313",
+                        "endColumns": "-1,-1,129,84,63,69,134,86,61,117,103,89,95,71,64,72,90,84",
+                        "endOffsets": "-1,-1,496,621,725,835,1010,1137,1239,1397,1541,1671,1807,1919,2024,2137,2268,2393"
+                    },
+                    "to": {
+                        "startLines": "684,685,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "43543,43607,44123,44253,44338,44402,44472,44607,44694,44756,44874,44978,45068,45164,45236,45301,45374,45465",
+                        "endColumns": "63,68,129,84,63,69,134,86,61,117,103,89,95,71,64,72,90,84",
+                        "endOffsets": "43602,43671,44248,44333,44397,44467,44602,44689,44751,44869,44973,45063,45159,45231,45296,45369,45460,45545"
+                    }
+                },
+                {
+                    "source": "/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "-1",
                         "startColumns": "-1",
@@ -66,6 +68,21 @@
                     }
                 },
                 {
+                    "source": "/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "737",
+                        "startColumns": "4",
+                        "startOffsets": "47572",
+                        "endColumns": "44",
+                        "endOffsets": "47612"
+                    }
+                },
+                {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/c66e604741b466b3506f57c38f27bb5c/transformed/jetified-firebase-messaging-19.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "-1",
@@ -78,23 +95,6 @@
                         "startOffsets": "54991",
                         "endColumns": "81",
                         "endOffsets": "55068"
-                    }
-                },
-                {
-                    "source": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "44",
-                        "endOffsets": "56"
-                    },
-                    "to": {
-                        "startLines": "737",
-                        "startColumns": "4",
-                        "startOffsets": "47572",
-                        "endColumns": "44",
-                        "endOffsets": "47612"
                     }
                 },
                 {
@@ -159,6 +159,21 @@
                     }
                 },
                 {
+                    "source": "/Users/joshuamartegarcia/Desktop/EDE/android/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "125,126,127,128,129,206",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "7679,7728,7775,7824,7872,13150",
+                        "endColumns": "48,46,48,47,44,46",
+                        "endOffsets": "7723,7770,7819,7867,7912,13192"
+                    }
+                },
+                {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/be9076cd4fc3ff6ad98aa6fb277b3148/transformed/jetified-autofill-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
@@ -220,38 +235,6 @@
                     }
                 },
                 {
-                    "source": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/@react-native-community/datetimepicker/android/build/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
-                    },
-                    "to": {
-                        "startLines": "3097,3100",
-                        "startColumns": "4,4",
-                        "startOffsets": "207559,207760",
-                        "endLines": "3099,3102",
-                        "endColumns": "12,12",
-                        "endOffsets": "207755,207944"
-                    }
-                },
-                {
-                    "source": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1",
-                        "startColumns": "-1,-1,-1",
-                        "startOffsets": "-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "3103,3106,3109",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "207949,208097,208237",
-                        "endLines": "3105,3108,3111",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "208092,208232,208419"
-                    }
-                },
-                {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/0e82c8f39b666fb3af71c210912c7fc0/transformed/cardview-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
@@ -265,6 +248,22 @@
                         "endLines": "8,119,120,121,122,313,314,315,926,2746,2749,2752",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12",
                         "endOffsets": "515,7360,7422,7484,7548,20429,20486,20540,68309,184516,184642,184770"
+                    }
+                },
+                {
+                    "source": "/Users/joshuamartegarcia/Desktop/EDE/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3103,3106,3109",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "207949,208097,208237",
+                        "endLines": "3105,3108,3111",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "208092,208232,208419"
                     }
                 },
                 {
@@ -360,21 +359,6 @@
                     }
                 },
                 {
-                    "source": "/Users/joshuamartegarcia/Desktop/servicios-mitur-appmovil/android/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "125,126,127,128,129,206",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "7679,7728,7775,7824,7872,13150",
-                        "endColumns": "48,46,48,47,44,46",
-                        "endOffsets": "7723,7770,7819,7867,7912,13192"
-                    }
-                },
-                {
                     "source": "/Users/joshuamartegarcia/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/res/values/values.xml",
                     "from": {
                         "startLines": "-1,-1",
@@ -402,6 +386,22 @@
                         "startOffsets": "42795,52947",
                         "endColumns": "67,166",
                         "endOffsets": "42858,53109"
+                    }
+                },
+                {
+                    "source": "/Users/joshuamartegarcia/Desktop/EDE/node_modules/@react-native-community/datetimepicker/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3097,3100",
+                        "startColumns": "4,4",
+                        "startOffsets": "207559,207760",
+                        "endLines": "3099,3102",
+                        "endColumns": "12,12",
+                        "endOffsets": "207755,207944"
                     }
                 },
                 {
