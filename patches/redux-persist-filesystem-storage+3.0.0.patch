@@ -1,0 +1,13 @@
+diff --git a/node_modules/redux-persist-filesystem-storage/index.js b/node_modules/redux-persist-filesystem-storage/index.js
+index 7198fde..fe382a3 100644
+--- a/node_modules/redux-persist-filesystem-storage/index.js
++++ b/node_modules/redux-persist-filesystem-storage/index.js
+@@ -2,7 +2,7 @@
+  * @flow
+  */
+ 
+-import RNFetchBlob from "rn-fetch-blob";
++import RNFetchBlob from "react-native-blob-util";
+ 
+ const createStoragePathIfNeeded = path =>
+   RNFetchBlob.fs

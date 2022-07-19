@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Separator MatchSnapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "height": 39,
+      "width": 32,
+    }
+  }
+/>
+`;

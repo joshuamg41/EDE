@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <!-- Value from build type: debug -->
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Value from default config. -->
+    <string name="AUTHORIZATION" translatable="false">"XiS9cuDMlRP0YtMsXPNepZFti5jqeoQdm0LbnZh8IMvZmF118LqCNSSj6CDVnYPv"</string>
+    <!-- Value from default config. -->
+    <string name="BASE_URL" translatable="false">"http://94.74.64.214:8000"</string>
+    <!-- Value from default config. -->
+    <string name="DEVELOP" translatable="false">"TRUE"</string>
+    <!-- Value from default config. -->
+    <string name="ERROR_TIMEOUT" translatable="false">"3000"</string>
+    <!-- Value from default config. -->
+    <string name="FILE_AUTHORIZATION" translatable="false">"pON2xGGbpraP698B5CJvUMljzJvDa8MmwXCOBDhz1jqwzlQ8bAG1QalAIRrDRmgY"</string>
+    <!-- Value from default config. -->
+    <string name="FILE_URL" translatable="false">"http://159.223.159.18:9000"</string>
+    <!-- Value from default config. -->
+    <string name="MOCK" translatable="false">"false"</string>
+    <!-- Value from default config. -->
+    <string name="NOTIFICATION_AUTH" translatable="false">"NTQyYzc5MWUtZGVmNy00YTRlLTk1ZDctOGFjYjdmYzE3N2Ey"</string>
+    <!-- Value from default config. -->
+    <string name="NOTIFICATION_ID" translatable="false">"1322fc7e-b5b0-4dbb-b114-e1e1e054b499"</string>
+    <!-- Value from default config. -->
+    <string name="NOTIFICATION_URL" translatable="false">"https://onesignal.com"</string>
+    <!-- Value from default config. -->
+    <string name="SIRITE_URL" translatable="false">"https://prw-psp-1.hacienda.gob.do"</string>
+    <!-- Value from default config. -->
+    <string name="SUCCESS_TIMEOUT" translatable="false">"3000"</string>
+    <!-- Value from default config. -->
+    <string name="TIMEOUT" translatable="false">"60000"</string>
+    <!-- Value from default config. -->
+    <string name="TOKEN_TIMEOUT" translatable="false">"3400000"</string>
+    <!-- Value from default config. -->
+    <string name="UNIQUE_IDENTITY_URL" translatable="false">"http://94.74.64.214"</string>
+    <!-- Value from default config. -->
+    <string name="WORDPRESS_URL" translatable="false">"http://94.74.66.171"</string>
+
+</resources>

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MiTur/Pods-MiTur-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OneSignalXCFramework/OneSignal.framework/OneSignal
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL

@@ -1,0 +1,96 @@
+diff --git a/node_modules/react-native-multiple-select/lib/react-native-multi-select.js b/node_modules/react-native-multiple-select/lib/react-native-multi-select.js
+index 2d97965..3b14186 100644
+--- a/node_modules/react-native-multiple-select/lib/react-native-multi-select.js
++++ b/node_modules/react-native-multiple-select/lib/react-native-multi-select.js
+@@ -195,7 +195,7 @@ export default class MultiSelect extends Component {
+           style={[
+             styles.selectedItem,
+             {
+-              width: item[displayKey].length * 8 + 60,
++              width: item[displayKey].length * 7 + 60,
+               justifyContent: 'center',
+               height: 40,
+               borderColor: tagBorderColor
+@@ -228,7 +228,6 @@ export default class MultiSelect extends Component {
+               style={{
+                 color: tagRemoveIconColor,
+                 fontSize: 22,
+-                marginLeft: 10
+               }}
+             />
+           </TouchableOpacity>
+@@ -624,7 +623,7 @@ export default class MultiSelect extends Component {
+                   size={20}
+                   onPress={this._clearSelectorCallback}
+                   color={colorPack.placeholderTextColor}
+-                  style={{ marginLeft: 5 }}
++                  style={{ marginLeft: 5, marginRight: 5 }}
+                 />
+               )}
+             </View>
+@@ -668,7 +667,6 @@ export default class MultiSelect extends Component {
+               <View
+                 style={[
+                   styles.subSection,
+-                  { paddingTop: 10, paddingBottom: 10 },
+                   styleDropdownMenuSubsection && styleDropdownMenuSubsection
+                 ]}
+               >
+@@ -724,7 +722,9 @@ export default class MultiSelect extends Component {
+               <View
+                 style={{
+                   flexDirection: 'row',
+-                  flexWrap: 'wrap'
++                  flexWrap: 'wrap',
++                  paddingBottom: 5,
++                  paddingHorizontal: 5,
+                 }}
+               >
+                 {this._displaySelectedItems()}
+diff --git a/node_modules/react-native-multiple-select/lib/styles.js b/node_modules/react-native-multiple-select/lib/styles.js
+index 7e2da8d..3f8165a 100644
+--- a/node_modules/react-native-multiple-select/lib/styles.js
++++ b/node_modules/react-native-multiple-select/lib/styles.js
+@@ -27,10 +27,10 @@ export default {
+   },
+   subSection: {
+     backgroundColor: colorPack.light,
+-    borderBottomWidth: 1,
++    borderBottomWidth: 0,
+     borderColor: colorPack.borderColor,
+     paddingLeft: 0,
+-    paddingRight: 20,
++    borderRadius: 20,
+     flex: 1,
+     flexDirection: 'row',
+     alignItems: 'center',
+@@ -61,6 +61,8 @@ export default {
+     flexDirection: 'row',
+     justifyContent: 'center',
+     alignItems: 'center',
++    borderBottomLeftRadius: 10,
++    borderBottomRightRadius: 10,
+   },
+   buttonText: {
+     color: colorPack.light,
+@@ -69,7 +71,6 @@ export default {
+   selectorView: (fixedHeight) => {
+     const style = {
+       flexDirection: 'column',
+-      marginBottom: 10,
+       elevation: 2,
+     };
+     if (fixedHeight) {
+@@ -82,11 +83,11 @@ export default {
+     alignItems: 'center',
+     paddingLeft: 16,
+     backgroundColor: colorPack.light,
++    borderRadius: 20,
+   },
+   dropdownView: {
+     flexDirection: 'row',
+     alignItems: 'center',
+     height: 40,
+-    marginBottom: 10,
+   },
+ };

@@ -1,0 +1,6 @@
+module Pods_MiTur_MiTurTests {
+  umbrella header "Pods-MiTur-MiTurTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

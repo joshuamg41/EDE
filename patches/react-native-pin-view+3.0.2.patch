@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-pin-view/index.js b/node_modules/react-native-pin-view/index.js
+index f80f75d..2871f55 100644
+--- a/node_modules/react-native-pin-view/index.js
++++ b/node_modules/react-native-pin-view/index.js
+@@ -30,7 +30,7 @@ const ViewButton = ({
+           customViewStyle,
+         ]}>
+         {customComponent ? (
+-          customComponent
++          customComponent()
+         ) : (
+           <Text style={[PinViewStyle.buttonText, customTextStyle]}>{text}</Text>
+         )}

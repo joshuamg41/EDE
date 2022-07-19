@@ -1,0 +1,15 @@
+com/concentra/mitur/MainApplication.java
+ com.concentra.mitur.MainApplication
+ com.concentra.mitur.MainApplication$1
+com/concentra/mitur/ReactNativeFlipper.java
+ com.concentra.mitur.ReactNativeFlipper
+ com.concentra.mitur.ReactNativeFlipper$1
+ com.concentra.mitur.ReactNativeFlipper$2
+ com.concentra.mitur.ReactNativeFlipper$2$1
+com/concentra/mitur/BuildConfig.java
+ com.concentra.mitur.BuildConfig
+com/concentra/mitur/MainActivity.java
+ com.concentra.mitur.MainActivity
+ com.concentra.mitur.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
